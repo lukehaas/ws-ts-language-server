@@ -1,0 +1,23 @@
+{
+  "name": "@lukehaas/ws-ts-language-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "cli.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Luke Haas",
+  "license": "MIT",
+  "dependencies": {
+    "@sourcegraph/vscode-ws-jsonrpc": "0.0.3-fork",
+    "get-port": "^5.1.1",
+    "minimist": "^1.2.5",
+    "typescript": "^4.2.3",
+    "typescript-language-server": "^0.5.1",
+    "ws": "^7.4.4"
+  }
+}
