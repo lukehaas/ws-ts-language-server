@@ -19,9 +19,9 @@
   "dependencies": {
     "@sourcegraph/vscode-ws-jsonrpc": "0.0.3-fork",
     "get-port": "^5.1.1",
-    "minimist": "^1.2.7",
-    "typescript": "^4.9.5",
-    "typescript-language-server": "^3.3.0",
-    "ws": "^8.11.0"
+    "minimist": "^1.2.8",
+    "typescript": "^5.3.2",
+    "typescript-language-server": "^4.1.2",
+    "ws": "^8.14.2"
   }
 }
