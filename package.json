@@ -2,7 +2,7 @@
   "name": "@lukehaas/ws-ts-language-server",
   "version": "1.0.0",
   "description": "",
-  "main": "cli.js",
+  "main": "cli.mjs",
   "directories": {
     "lib": "lib"
   },
@@ -17,11 +17,11 @@
   "author": "Luke Haas",
   "license": "MIT",
   "dependencies": {
-    "@sourcegraph/vscode-ws-jsonrpc": "0.0.3-fork",
-    "get-port": "^5.1.1",
+    "get-port": "^7.1.0",
     "minimist": "^1.2.8",
     "typescript": "^5.3.3",
     "typescript-language-server": "^4.3.3",
-    "ws": "^8.16.0"
+    "vscode-ws-jsonrpc": "^3.3.2",
+    "ws": "^8.18.0"
   }
 }
