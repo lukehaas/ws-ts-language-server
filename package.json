@@ -19,9 +19,9 @@
   "dependencies": {
     "get-port": "^7.1.0",
     "minimist": "^1.2.8",
-    "typescript": "^5.5.4",
-    "typescript-language-server": "^4.3.3",
-    "vscode-ws-jsonrpc": "^3.3.2",
-    "ws": "^8.18.0"
+    "typescript": "^5.8.2",
+    "typescript-language-server": "^4.3.4",
+    "vscode-ws-jsonrpc": "^3.4.0",
+    "ws": "^8.18.1"
   }
 }
