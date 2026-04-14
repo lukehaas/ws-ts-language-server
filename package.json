@@ -17,11 +17,11 @@
   "author": "Luke Haas",
   "license": "MIT",
   "dependencies": {
-    "get-port": "^7.1.0",
+    "get-port": "^7.2.0",
     "minimist": "^1.2.8",
-    "typescript": "^5.8.2",
-    "typescript-language-server": "^4.3.4",
-    "vscode-ws-jsonrpc": "^3.4.0",
-    "ws": "^8.18.1"
+    "typescript": "^6.0.2",
+    "typescript-language-server": "^5.1.3",
+    "vscode-ws-jsonrpc": "^3.5.0",
+    "ws": "^8.20.0"
   }
 }
